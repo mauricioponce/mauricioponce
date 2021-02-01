@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there :fist:
 
 Hi! I'm Mauricio Ponce and i'm a developer who likes to read/write code.
 
