@@ -11,8 +11,8 @@ Hi! I'm Mauricio Ponce and i'm a developer who likes to read/write code.
 
 
 **Coordinates**
-- [![linkedin](https://img.shields.io/badge/linkedin-mauriciopone-orange)](https://www.linkedin.com/in/mauricio-ponce-oyarz%C3%BAn-bba52029/ "![linkedin](https://img.shields.io/badge/linkedin-mauriciopone-orange)")
-- [![gmail](https://img.shields.io/badge/gmail-mauriciopone-orange)](mailto:mauricio.ponce.o@gmail.com)
+- [![linkedin](https://img.shields.io/badge/linkedin-mauriciopone-orange)](https://www.linkedin.com/in/mauricio-ponce-oyarz%C3%BAn-bba52029/ "![linkedin](https://img.shields.io/badge/linkedin-mauricioponce-orange)")
+- [![gmail](https://img.shields.io/badge/gmail-mauricioponce-orange)](mailto:mauricio.ponce.o@gmail.com)
 
 <!--
 **mauricioponce/mauricioponce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
